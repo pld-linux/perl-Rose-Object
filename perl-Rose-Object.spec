@@ -2,7 +2,6 @@
 # Conditional build:
 %bcond_without	tests		# do not perform "make test"
 #
-%include	/usr/lib/rpm/macros.perl
 %define	pdir	Rose
 %define	pnam	Object
 Summary:	Rose::Object - A simple object base class.
