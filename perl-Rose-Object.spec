@@ -8,7 +8,7 @@ Summary:	Rose::Object - A simple object base class.
 #Summary(pl.UTF-8):	
 Name:		perl-Rose-Object
 Version:	0.859
-Release:	1
+Release:	2
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
