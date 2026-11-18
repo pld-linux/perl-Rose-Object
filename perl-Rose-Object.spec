@@ -7,13 +7,13 @@
 Summary:	Rose::Object - A simple object base class.
 #Summary(pl.UTF-8):	
 Name:		perl-Rose-Object
-Version:	0.859
-Release:	2
+Version:	0.860
+Release:	1
 # same as perl
 License:	GPL v1+ or Artistic
 Group:		Development/Languages/Perl
-Source0:	http://www.cpan.org/modules/by-module/Rose/%{pdir}-%{pnam}-%{version}.tar.gz
-# Source0-md5:	f29945067ab64453be3f50c70e4daf85
+Source0:	https://www.cpan.org/authors/id/J/JS/JSIRACUSA/%{pdir}-%{pnam}-%{version}.tar.gz
+# Source0-md5:	34d662a480065ea4fb6ff47fbe2e6ca3
 URL:		http://search.cpan.org/dist/Rose-Object/
 BuildRequires:	perl-devel >= 1:5.8.0
 BuildRequires:	rpm-perlprov >= 4.1-13
